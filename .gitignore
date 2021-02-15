@@ -1,0 +1,5 @@
+data/
+pickle/
+*.log
+cleaned_tags.pkl
+trained_weights/
